@@ -1,4 +1,7 @@
 <?php
+
+// Ref - https://php.watch/versions/8.0/constructor-property-promotion
+
 // Bfore PHP 8
 /**
 class User {
